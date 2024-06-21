@@ -1,0 +1,101 @@
+TransactionDate,CreditAmount,DebitAmount,Vendor,TransactionCategory
+01-01-2023,47.56,15.4,Amazon,Groceries
+02-01-2023,154.78,87.65,Walmart,Utilities
+03-01-2023,234.67,60.3,Target,Dining Out
+04-01-2023,12.9,19.8,Starbucks,Entertainment
+05-01-2023,78.45,45.7,McDonald's,Rent
+06-01-2023,132.59,120.5,Costco,Transportation
+07-01-2023,250,32,Best Buy,Medical
+08-01-2023,89.6,55.6,Amazon,Insurance
+09-01-2023,105.3,75.9,Home Depot,Education
+10-01-2023,67.89,23.1,Lowe's,Savings
+11-01-2023,190.45,45.8,CVS Pharmacy,Groceries
+12-01-2023,320.78,98.5,Walgreens,Utilities
+13-01-2023,75.2,35.2,Shell,Dining Out
+14-01-2023,58.6,66.9,Chevron,Entertainment
+15-01-2023,210.34,40,ExxonMobil,Rent
+16-01-2023,99.99,22.45,AT&T,Transportation
+17-01-2023,45.1,70.8,Verizon,Medical
+18-01-2023,67.43,45.3,T-Mobile,Insurance
+19-01-2023,156.8,34.1,Netflix,Education
+20-01-2023,300,105.6,Hulu,Savings
+21-01-2023,88.9,65.4,Uber,Groceries
+22-01-2023,230.5,30,Lyft,Utilities
+23-01-2023,54.3,29.9,Airbnb,Dining Out
+24-01-2023,78.9,120.3,Marriott,Entertainment
+25-01-2023,110.56,90,Hilton,Rent
+26-01-2023,145.8,53.2,Delta Airlines,Transportation
+27-01-2023,255.65,45.5,Amazon,Medical
+28-01-2023,98,100.7,Southwest Airlines,Insurance
+29-01-2023,205.45,67.4,United Airlines,Education
+30-01-2023,132.78,110,JetBlue,Savings
+31-01-2023,59.2,25.5,Spotify,Groceries
+01-02-2023,89.45,60.1,Pandora,Utilities
+02-02-2023,174.6,73.9,Google Play,Dining Out
+03-02-2023,48.79,38,Apple Music,Entertainment
+04-02-2023,133.3,45.7,eBay,Rent
+05-02-2023,200,52.3,Etsy,Transportation
+06-02-2023,125.5,79.8,Nordstrom,Medical
+07-02-2023,60.8,85.9,Macy's,Insurance
+08-02-2023,94.2,40.2,Gap,Education
+09-02-2023,82.1,15,Old Navy,Savings
+10-02-2023,150,65.7,Banana Republic,Groceries
+11-02-2023,70.7,38.6,H&M,Utilities
+12-02-2023,88.4,92.5,Zara,Dining Out
+13-02-2023,240.55,20.8,Nike,Entertainment
+14-02-2023,108.9,87.4,Adidas,Rent
+15-02-2023,65.2,55,Under Armour,Transportation
+16-02-2023,134.78,36.7,Puma,Medical
+17-02-2023,92.3,77.5,Reebok,Insurance
+18-02-2023,50,45.2,Foot Locker,Education
+19-02-2023,190.6,88.9,Dick's Sporting Goods,Savings
+20-02-2023,85.9,22.1,GameStop,Groceries
+21-02-2023,175.45,60.8,Sony,Utilities
+22-02-2023,120,100.2,Walmart,Dining Out
+23-02-2023,68.3,44,Nintendo,Entertainment
+24-02-2023,99.1,36.5,PlayStation Store,Rent
+25-02-2023,230,90.1,Xbox Live,Transportation
+26-02-2023,78.8,40.4,Steam,Medical
+27-02-2023,140.9,54.9,Blizzard Entertainment,Insurance
+28-02-2023,112.56,70.5,Epic Games,Education
+01-03-2023,130.45,85.3,Uber Eats,Savings
+02-03-2023,75.3,35.8,DoorDash,Groceries
+03-03-2023,190,49.9,Grubhub,Utilities
+04-03-2023,210.65,28,Domino's,Dining Out
+05-03-2023,105.9,60,Pizza Hut,Entertainment
+06-03-2023,89,25.2,KFC,Rent
+07-03-2023,69.78,110.9,Taco Bell,Transportation
+08-03-2023,250.45,67.3,Chipotle,Medical
+09-03-2023,124.9,105.4,Panera Bread,Insurance
+10-03-2023,95.8,20.6,Subway,Education
+11-03-2023,300.45,75.3,Dunkin' Donuts,Savings
+12-03-2023,110.2,50.7,Krispy Kreme,Groceries
+13-03-2023,140.78,35.4,Chick-fil-A,Utilities
+14-03-2023,150.9,87.1,Popeyes,Dining Out
+15-03-2023,68.1,69.6,Burger King,Entertainment
+16-03-2023,220.34,44.5,Wendy's,Rent
+17-03-2023,178.6,115.8,Arby's,Transportation
+18-03-2023,133.9,55.3,Sonic,Medical
+19-03-2023,90.45,41.2,Five Guys,Insurance
+20-03-2023,54,36.9,In-N-Out Burger,Education
+21-03-2023,79.9,70,Shake Shack,Savings
+22-03-2023,123.45,99.1,Whole Foods,Groceries
+23-03-2023,164.78,48.5,Trader Joe's,Utilities
+24-03-2023,98.3,61,Aldi,Dining Out
+25-03-2023,240,89.7,Publix,Entertainment
+26-03-2023,66.9,25.8,Kroger,Rent
+27-03-2023,108.5,72.2,Safeway,Transportation
+28-03-2023,178.45,54.6,Amazon,Medical
+29-03-2023,70.3,30.9,Sam's Club,Insurance
+30-03-2023,120.45,105,BJ's Wholesale Club,Education
+31-03-2023,95.2,40.3,REI,Savings
+01-04-2023,111.6,47.5,Patagonia,Groceries
+02-04-2023,69.1,60.4,L.L. Bean,Utilities
+03-04-2023,245.78,78.2,North Face,Dining Out
+04-04-2023,199.99,100.5,Columbia Sportswear,Entertainment
+05-04-2023,84.7,68.1,AutoZone,Rent
+06-04-2023,150.45,22.9,Advance Auto Parts,Transportation
+07-04-2023,123,75,O'Reilly Auto Parts,Medical
+08-04-2023,87.9,33.4,Napa Auto Parts,Insurance
+09-04-2023,110.34,55.8,Petco,Education
+10-04-2023,80.5,88.3,Amazon,Savings
